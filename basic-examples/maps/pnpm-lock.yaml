@@ -1,0 +1,26 @@
+dependencies:
+  faker: 4.1.0
+devDependencies:
+  '@types/faker': 4.1.6
+  typescript: 3.6.4
+lockfileVersion: 5.1
+packages:
+  /@types/faker/4.1.6:
+    dev: true
+    resolution:
+      integrity: sha512-Tp4xHecf4UX8VOvSfsL1QlMbOfukGbbAhQbHvPIcX56NmNql4MAamV7E/K5zdYfxlk8FTcxwsaCZTxM79zJzPQ==
+  /faker/4.1.0:
+    dev: false
+    resolution:
+      integrity: sha1-HkW7vsxndLPBlfrSg1EJxtdIzD8=
+  /typescript/3.6.4:
+    dev: true
+    engines:
+      node: '>=4.2.0'
+    hasBin: true
+    resolution:
+      integrity: sha512-unoCll1+l+YK4i4F8f22TaNVPRHcD9PA3yCuZ8g5e0qGqlVlJ/8FSateOLLSagn+Yg5+ZwuPkL8LFUc0Jcvksg==
+specifiers:
+  '@types/faker': ^4.1.6
+  faker: ^4.1.0
+  typescript: ^3.6.4
